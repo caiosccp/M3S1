@@ -1,10 +1,7 @@
 import sqlite3
 
-if(True):
-    print("Verdadeiro")
-elif(False):
-    print("Falso")
-    
+print("Verdadeiro")
+
 if (True):
     print("Verdadeiro")
 
